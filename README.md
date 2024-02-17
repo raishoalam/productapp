@@ -33,7 +33,7 @@ Without further details or access to the actual code, this overview provides a g
 
 Instructions for running the project locally
 git clone https://github.com/raishoalam/app.git
-cd app
-npm install
-npm start
+#cd app
+#npm install
+#npm start
 http://localhost:3000
